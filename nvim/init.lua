@@ -1,2 +1,2 @@
-require("notfound.core")
-require("notfound.lazy")
+require("lycheejelly.lazy")
+require("lycheejelly.config")
